@@ -1,0 +1,22 @@
+html {
+    background-color: dimgray;
+}
+
+head {
+    text-align: center;
+}
+
+body {
+    
+}
+
+.title {
+    text-align: center;
+    /*background-color: aqua; */
+    font-size: 48pt;
+    color: red;
+}
+
+header {
+    text-align: center;
+}
